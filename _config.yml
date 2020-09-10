@@ -1,14 +1,14 @@
 # Site settings
-title: TieZhu
+title: TieZhu的博客
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
+ 这是一个好的博客
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://junrong330.github.io" # the base hostname & protocol for your site
+url: "https://guojunrong147.github.io" # the base hostname & protocol for your site
 
 author:
   fullname: TieZhu
-  github: github
+  github: https://github.com/guojunrong147
   linkedin: linkedin
   email: 1372992308@qq.com
 
