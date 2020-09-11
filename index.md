@@ -10,5 +10,5 @@ sitemap:
 
 <div id="describe-text">
 	<p>Do a traveler in life,the life of a singer,do the dancer of life.</p>
-	<p>Fork and use the theme from the <strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
+	<p>Knowledge is power!    <strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
 </div>
