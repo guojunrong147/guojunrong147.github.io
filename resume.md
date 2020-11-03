@@ -8,17 +8,11 @@ subtitle: 一个平凡的人
 <br>
 
 ### 擅长技能
-``` 暂时没有擅长技能，有待提高  ```  
+``` 励志于开发项目  ```  
 
-### PROJECTS
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
-
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
-
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+### 项目
+**标题** - 一个属于自己的网页 <span style="float: right; ">Time span</span>  
+http://www.guojunrong.icu 
 
 ### EDUCATION
 
@@ -34,7 +28,7 @@ Institute <span style="float: right; ">Duration</span>
 **Course**  
 Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit. 
 
-### EXPERIENCE
+### 经验
 
 Title - **Comapany** <span style="float: right; ">Duration</span>  
 _Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
@@ -52,9 +46,3 @@ Technologies used
 
 ### RECOGNITION & INTERESTS
 
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.

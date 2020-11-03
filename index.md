@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello
+title: HELLO！
 subtitle: 我是憨憨铁柱嗷！
 sitemap:
   priority: 0.9
